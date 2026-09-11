@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours technique en français sur les messages, preuves, validateurs et risques du pont Base–Solana est disponible dans [`docs/fr/`](docs/fr/).
+
 ![Base](logo.png)
 
 # Base Bridge
